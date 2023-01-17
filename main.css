@@ -18,11 +18,11 @@
     text-align: center;
 }
 .footer {
-    padding: 100px ;
+    padding: 80px ;
     font-size: 48px;
     font-weight: 700;
     color: beige;
     font-family: sans-serif;
-    background-color: rgb(61, 62, 63);
+    background-color: rgba(61, 62, 63, 0.20);
     text-align: center;
 }
